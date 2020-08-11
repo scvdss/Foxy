@@ -91,3 +91,4 @@ Please keep my account id in the owners in `config.json`
 * [x] [https://randomfox.ca/](https://randomfox.ca/)
 * [x] [https://dog.ceo/](https://dog.ceo/)
 * [x] [https://thecatapi.com/](https://thecatapi.com/)
+[![Run on Repl.it](https://repl.it/badge/github/Maanuj-Vora/Foxy)](https://repl.it/github/Maanuj-Vora/Foxy)
